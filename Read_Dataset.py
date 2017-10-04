@@ -11,9 +11,8 @@ import numpy as np
 
 ############################################### Reading the csv data ###################################
 
-# Output is a dictionary
+# Output is a numpy array
 
-# By default loading the training data
 def read_csv_data():
     
     temp_list = list()
